@@ -9,6 +9,14 @@
 
 ---
 
+## 🎯 Live Demo
+
+> 🌐 **Try it now!** → **[https://smart-doc.streamlit.app/](https://smart-doc.streamlit.app/)**
+>
+> No installation needed. Just open the link and start searching!
+
+---
+
 ## 🌟 Overview
 
 **Smart Document Finder** is an advanced document search application that uses cutting-edge AI technology to help you find exactly what you're looking for across multiple documents. Unlike traditional keyword-based search, this tool understands the **semantic meaning** of your queries, making searches intuitive and accurate.
