@@ -6,7 +6,7 @@ streamlit==1.28.1
 
 # Better embeddings model (state-of-the-art for semantic search)
 # BAAI/bge-small-en-v1.5 is faster and more accurate than all-MiniLM
-sentence-transformers==2.2.2
+sentence-transformers>=2.7.0
 torch>=2.0.0
 
 # Data processing
